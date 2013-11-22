@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file>
+	<filename>./MXF/XDCAM_HD422_720p50.mxf</filename>
+	<format_name>mxf</format_name>
+	<format_long_name>MXF (Material eXchange Format)</format_long_name>
+	<streams_count>9</streams_count>
+	<programs_count>0</programs_count>
+	<start_time>0</start_time>
+	<duration>0</duration>
+	<bit_rate>0</bit_rate>
+	<packet size>0</packet size>
+	<video>
+		<codec_name>mpeg2video</codec_name>
+		<codec_long_name>MPEG-2 video</codec_long_name>
+		<color_transfert>Rec 709</color_transfert>
+		<colorspace>Rec 709</colorspace>
+		<color_range>Head</color_range>
+		<color_primaries>Rec 709</color_primaries>
+		<chroma sample location>left (mpeg2/4, h264 default)</chroma sample location>
+		<field order>unknown</field order>
+		<pixel name>yuv422p</pixel name>
+		<endianess>little</endianess>
+		<time base num>1</time base num>
+		<time base den>100</time base den>
+		<sample aspect ratio num>1</sample aspect ratio num>
+		<sample aspect ratio den>1</sample aspect ratio den>
+		<display aspect ratio num>16</display aspect ratio num>
+		<display aspect ratio den>9</display aspect ratio den>
+		<stream id>0</stream id>
+		<codec id>2</codec id>
+		<bit rate>50000000</bit rate>
+		<ticks per frame>2</ticks per frame>
+		<width>1280</width>
+		<height>720</height>
+		<gop size>12</gop size>
+		<active format description>0</active format description>
+		<reference frames>1</reference frames>
+		<profile>0</profile>
+		<level>2</level>
+		<components>3</components>
+		<chroma width>1</chroma width>
+		<chroma height>0</chroma height>
+		<frame per second>50.000000</frame per second>
+		<has b frames>1</has b frames>
+		<indexed colors>0</indexed colors>
+		<bit wise packed>0</bit wise packed>
+		<hadware acceleration>0</hadware acceleration>
+		<not first plane>0</not first plane>
+		<rgb pixel data>0</rgb pixel data>
+		<pseudo paletted>0</pseudo paletted>
+		<as alpha>0</as alpha>
+		<is interlaced>0</is interlaced>
+		<gop_structure>
+			<type>B</type>
+			<is_ref>0</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>B</type>
+			<is_ref>0</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>I</type>
+			<is_ref>1</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>B</type>
+			<is_ref>0</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>B</type>
+			<is_ref>0</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>P</type>
+			<is_ref>0</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>B</type>
+			<is_ref>0</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>B</type>
+			<is_ref>0</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>P</type>
+			<is_ref>0</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>B</type>
+			<is_ref>0</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>B</type>
+			<is_ref>0</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>P</type>
+			<is_ref>0</is_ref>
+		</gop_structure>
+		<channels>
+			<id>0</id>
+			<chroma height>0</chroma height>
+			<bit step>0</bit step>
+		</channels>
+		<channels>
+			<id>1</id>
+			<chroma height>1</chroma height>
+			<bit step>0</bit step>
+		</channels>
+		<channels>
+			<id>2</id>
+			<chroma height>2</chroma height>
+			<bit step>0</bit step>
+		</channels>
+	</video>
+	<audio>
+		<codec name>pcm_s24le</codec name>
+		<codec long name>PCM signed 24-bit little-endian</codec long name>
+		<sample format>signed 32 bits</sample format>
+		<stream id>1</stream id>
+		<codec id>65548</codec id>
+		<sample rate>48000</sample rate>
+		<channels>1</channels>
+		<bit rate>0</bit rate>
+	</audio>
+	<audio>
+		<codec name>pcm_s24le</codec name>
+		<codec long name>PCM signed 24-bit little-endian</codec long name>
+		<sample format>signed 32 bits</sample format>
+		<stream id>2</stream id>
+		<codec id>65548</codec id>
+		<sample rate>48000</sample rate>
+		<channels>1</channels>
+		<bit rate>0</bit rate>
+	</audio>
+	<audio>
+		<codec name>pcm_s24le</codec name>
+		<codec long name>PCM signed 24-bit little-endian</codec long name>
+		<sample format>signed 32 bits</sample format>
+		<stream id>3</stream id>
+		<codec id>65548</codec id>
+		<sample rate>48000</sample rate>
+		<channels>1</channels>
+		<bit rate>0</bit rate>
+	</audio>
+	<audio>
+		<codec name>pcm_s24le</codec name>
+		<codec long name>PCM signed 24-bit little-endian</codec long name>
+		<sample format>signed 32 bits</sample format>
+		<stream id>4</stream id>
+		<codec id>65548</codec id>
+		<sample rate>48000</sample rate>
+		<channels>1</channels>
+		<bit rate>0</bit rate>
+	</audio>
+	<audio>
+		<codec name>pcm_s24le</codec name>
+		<codec long name>PCM signed 24-bit little-endian</codec long name>
+		<sample format>signed 32 bits</sample format>
+		<stream id>5</stream id>
+		<codec id>65548</codec id>
+		<sample rate>48000</sample rate>
+		<channels>1</channels>
+		<bit rate>0</bit rate>
+	</audio>
+	<audio>
+		<codec name>pcm_s24le</codec name>
+		<codec long name>PCM signed 24-bit little-endian</codec long name>
+		<sample format>signed 32 bits</sample format>
+		<stream id>6</stream id>
+		<codec id>65548</codec id>
+		<sample rate>48000</sample rate>
+		<channels>1</channels>
+		<bit rate>0</bit rate>
+	</audio>
+	<audio>
+		<codec name>pcm_s24le</codec name>
+		<codec long name>PCM signed 24-bit little-endian</codec long name>
+		<sample format>signed 32 bits</sample format>
+		<stream id>7</stream id>
+		<codec id>65548</codec id>
+		<sample rate>48000</sample rate>
+		<channels>1</channels>
+		<bit rate>0</bit rate>
+	</audio>
+	<audio>
+		<codec name>pcm_s24le</codec name>
+		<codec long name>PCM signed 24-bit little-endian</codec long name>
+		<sample format>signed 32 bits</sample format>
+		<stream id>8</stream id>
+		<codec id>65548</codec id>
+		<sample rate>48000</sample rate>
+		<channels>1</channels>
+		<bit rate>0</bit rate>
+	</audio>
+</file>
+
+

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file>
+	<filename>./MXF/op1a-up-wave_hd.mxf</filename>
+	<format_name>mxf</format_name>
+	<format_long_name>MXF (Material eXchange Format)</format_long_name>
+	<streams_count>2</streams_count>
+	<programs_count>0</programs_count>
+	<start_time>0</start_time>
+	<duration>0</duration>
+	<bit_rate>0</bit_rate>
+	<packet size>0</packet size>
+	<video>
+		<codec_name/>
+		<codec_long_name/>
+		<color_transfert/>
+		<colorspace/>
+		<color_range/>
+		<color_primaries/>
+		<chroma sample location/>
+		<field order/>
+		<pixel name/>
+		<endianess/>
+		<time base num>0</time base num>
+		<time base den>0</time base den>
+		<sample aspect ratio num>0</sample aspect ratio num>
+		<sample aspect ratio den>0</sample aspect ratio den>
+		<display aspect ratio num>0</display aspect ratio num>
+		<display aspect ratio den>0</display aspect ratio den>
+		<stream id>0</stream id>
+		<codec id>0</codec id>
+		<bit rate>0</bit rate>
+		<ticks per frame>0</ticks per frame>
+		<width>0</width>
+		<height>0</height>
+		<gop size>0</gop size>
+		<active format description>0</active format description>
+		<reference frames>0</reference frames>
+		<profile>0</profile>
+		<level>0</level>
+		<components>0</components>
+		<chroma width>0</chroma width>
+		<chroma height>0</chroma height>
+		<frame per second>0.000000</frame per second>
+		<has b frames>0</has b frames>
+		<indexed colors>0</indexed colors>
+		<bit wise packed>0</bit wise packed>
+		<hadware acceleration>0</hadware acceleration>
+		<not first plane>0</not first plane>
+		<rgb pixel data>0</rgb pixel data>
+		<pseudo paletted>0</pseudo paletted>
+		<as alpha>0</as alpha>
+		<is interlaced>0</is interlaced>
+	</video>
+	<audio>
+		<codec name>pcm_s32le</codec name>
+		<codec long name>PCM signed 32-bit little-endian</codec long name>
+		<sample format>signed 32 bits</sample format>
+		<stream id>1</stream id>
+		<codec id>65544</codec id>
+		<sample rate>48000</sample rate>
+		<channels>2</channels>
+		<bit rate>0</bit rate>
+	</audio>
+</file>
+
+

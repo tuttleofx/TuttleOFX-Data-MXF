@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file>
+	<filename>./MXF/xdcamdv-ntsc.mxf</filename>
+	<format_name>mxf</format_name>
+	<format_long_name>MXF (Material eXchange Format)</format_long_name>
+	<streams_count>6</streams_count>
+	<programs_count>0</programs_count>
+	<start_time>0</start_time>
+	<duration>0</duration>
+	<bit_rate>0</bit_rate>
+	<packet size>0</packet size>
+	<video>
+		<codec_name>dvvideo</codec_name>
+		<codec_long_name>DV (Digital Video)</codec_long_name>
+		<color_transfert>unspecified</color_transfert>
+		<colorspace>unspecified</colorspace>
+		<color_range>unspecified</color_range>
+		<color_primaries>unspecified</color_primaries>
+		<chroma sample location>top left</chroma sample location>
+		<field order>unknown</field order>
+		<pixel name>yuv411p</pixel name>
+		<endianess>little</endianess>
+		<time base num>1001</time base num>
+		<time base den>30000</time base den>
+		<sample aspect ratio num>8</sample aspect ratio num>
+		<sample aspect ratio den>9</sample aspect ratio den>
+		<display aspect ratio num>4</display aspect ratio num>
+		<display aspect ratio den>3</display aspect ratio den>
+		<stream id>0</stream id>
+		<codec id>25</codec id>
+		<bit rate>0</bit rate>
+		<ticks per frame>1</ticks per frame>
+		<width>720</width>
+		<height>480</height>
+		<gop size>12</gop size>
+		<active format description>0</active format description>
+		<reference frames>1</reference frames>
+		<profile>18446744073709551517</profile>
+		<level>18446744073709551517</level>
+		<components>3</components>
+		<chroma width>2</chroma width>
+		<chroma height>0</chroma height>
+		<frame per second>29.970030</frame per second>
+		<has b frames>0</has b frames>
+		<indexed colors>0</indexed colors>
+		<bit wise packed>0</bit wise packed>
+		<hadware acceleration>0</hadware acceleration>
+		<not first plane>0</not first plane>
+		<rgb pixel data>0</rgb pixel data>
+		<pseudo paletted>0</pseudo paletted>
+		<as alpha>0</as alpha>
+		<is interlaced>1</is interlaced>
+		<gop_structure>
+			<type>I</type>
+			<is_ref>1</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>I</type>
+			<is_ref>1</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>I</type>
+			<is_ref>1</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>I</type>
+			<is_ref>1</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>I</type>
+			<is_ref>1</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>I</type>
+			<is_ref>1</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>I</type>
+			<is_ref>1</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>I</type>
+			<is_ref>1</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>I</type>
+			<is_ref>1</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>I</type>
+			<is_ref>1</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>I</type>
+			<is_ref>1</is_ref>
+		</gop_structure>
+		<gop_structure>
+			<type>I</type>
+			<is_ref>1</is_ref>
+		</gop_structure>
+		<channels>
+			<id>0</id>
+			<chroma height>0</chroma height>
+			<bit step>0</bit step>
+		</channels>
+		<channels>
+			<id>1</id>
+			<chroma height>1</chroma height>
+			<bit step>0</bit step>
+		</channels>
+		<channels>
+			<id>2</id>
+			<chroma height>2</chroma height>
+			<bit step>0</bit step>
+		</channels>
+	</video>
+	<audio>
+		<codec name>pcm_s16le</codec name>
+		<codec long name>PCM signed 16-bit little-endian</codec long name>
+		<sample format>signed 16 bits</sample format>
+		<stream id>1</stream id>
+		<codec id>65536</codec id>
+		<sample rate>48000</sample rate>
+		<channels>1</channels>
+		<bit rate>0</bit rate>
+	</audio>
+	<audio>
+		<codec name>pcm_s16le</codec name>
+		<codec long name>PCM signed 16-bit little-endian</codec long name>
+		<sample format>signed 16 bits</sample format>
+		<stream id>2</stream id>
+		<codec id>65536</codec id>
+		<sample rate>48000</sample rate>
+		<channels>1</channels>
+		<bit rate>0</bit rate>
+	</audio>
+	<audio>
+		<codec name>pcm_s16le</codec name>
+		<codec long name>PCM signed 16-bit little-endian</codec long name>
+		<sample format>signed 16 bits</sample format>
+		<stream id>3</stream id>
+		<codec id>65536</codec id>
+		<sample rate>48000</sample rate>
+		<channels>1</channels>
+		<bit rate>0</bit rate>
+	</audio>
+	<audio>
+		<codec name>pcm_s16le</codec name>
+		<codec long name>PCM signed 16-bit little-endian</codec long name>
+		<sample format>signed 16 bits</sample format>
+		<stream id>4</stream id>
+		<codec id>65536</codec id>
+		<sample rate>48000</sample rate>
+		<channels>1</channels>
+		<bit rate>0</bit rate>
+	</audio>
+</file>
+
+
